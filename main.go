@@ -1,8 +1,9 @@
 package main
 
 import (
-	"child/folder3"
 	"fmt"
+
+	"github.com/olegsimanov/aaaaa/folder3"
 )
 
 func main() {
