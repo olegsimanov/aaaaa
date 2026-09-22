@@ -1,3 +1,3 @@
-module child // can be any name, it is being used to differentiate from other modules imported by this module
+module aaaaa // should match github project name. Required by golang canonical module path check when downloading modules from remote sites
 
 go 1.24.4
